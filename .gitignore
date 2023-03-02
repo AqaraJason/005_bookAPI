@@ -1,0 +1,9 @@
+__pacache__/
+*.py[cod]
+
+.Python
+db.sqlite3
+.DS_Store
+
+.vscode/
+.env
